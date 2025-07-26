@@ -11,3 +11,4 @@ bin           = @["planegame_2"]
 # Dependencies
 
 requires "nim >= 1.6.10"
+requires "nimraylib_now ==  0.15.0" #The latest before archival
